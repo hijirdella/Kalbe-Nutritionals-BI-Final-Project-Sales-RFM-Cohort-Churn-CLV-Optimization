@@ -1,0 +1,30 @@
+Case Study - Legend :
+
+Dataset ini terdiri dari 4 csv file yaitu customer, store, product dan transaction. Merupakan dummy data untuk studi kasus FMCG dalam kurun waktu 1 tahun yang diambil melalui program membership.
+
+Penjelasan 
+1. Customer
+- CustomerID : No Unik Customer
+- Age : Usia Customer
+- Gender : 0 Wanita, 1 Pria
+- Marital Status : Married, Single (Blm menikah/Pernah menikah)
+- Income : Pendapatan per bulan dalam jutaan rupiah
+
+2. Store
+- StoreID : Kode Unik Store
+- StoreName : Nama Toko
+- GroupStore : Nama group
+- Type : Modern Trade, General Trade
+- Latitude : Kode Latitude
+- Longitude : Kode Longitude
+
+3. Product
+- ProductID : Kode Unik Product
+- Product Name : Nama Product
+- Price : Harga dlm rupiah
+
+4. Transaction
+- TransactionID : Kode Unik Transaksi
+- Date : Tanggal transaksi
+- Qty : Jumlah item yang dibeli
+- Total Amount : Price x Qty
