@@ -45,7 +45,8 @@ The project includes:
 ![Churn Dashboard](https://github.com/hijirdella/Kalbe-Nutritionals-BI-Final-Project-Sales-RFM-Cohort-Churn-CLV-Optimization/blob/75d824900109a07c2f19cbd22bb3b1cc030d6bbe/Dashboard/Churn%20Dashboard.png)
 
 ## 📌 Business Recommendation
-Detailed business recommendations based on data analysis can be found [here](https://github.com/hijirdella/Kalbe-Nutritionals-BI-Final-Project-Sales-RFM-Cohort-Churn-CLV-Optimization/tree/2492704013f7d38cd337032430395539cecc7b26/Dashboard).
+Detailed business recommendations based on data analysis 
+![Business Recommendations](https://github.com/hijirdella/Kalbe-Nutritionals-BI-Final-Project-Sales-RFM-Cohort-Churn-CLV-Optimization/blob/2492704013f7d38cd337032430395539cecc7b26/Dashboard/Presentation%20-%20Kalbe%20Nutritionals_page-0025.jpg).
 
 ## 🚀 Tools & Technologies
 - **SQL**: Data extraction & transformation
